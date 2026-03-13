@@ -5,15 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile;Python+Developer;Django+%2B+React;Building+cool+things" />
 </p>
 
----
-
 ## 🚀 Обо мне
 
 - 🐍 Python / Django developer  
 - ⚛️ React developer   
 - 💻 Linux user on cachyos
-
----
 
 ## 🧠 Технический стек
 
@@ -22,8 +18,6 @@
 <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,git,linux,vite"/>
 
 </p>
-
----
 
 ## 📊 Статистика
 
@@ -34,8 +28,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autli5&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
 
 ## 🔥 Активность
 
