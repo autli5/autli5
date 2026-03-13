@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World 👋
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <!--
 **autli5/autli5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
