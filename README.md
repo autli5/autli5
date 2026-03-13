@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Niki</h1>
-<h3 align="center">Python / Django developer • React enthusiast</h3>
+<h1 align="center">Хай 👋, Я Никита</h1>
+<h3 align="center">Python / Django разработчик • React энтузиаст</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile;Python+Developer;Django+%2B+React;Building+cool+things" />
@@ -7,17 +7,15 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Обо мне
 
 - 🐍 Python / Django developer  
-- ⚛️ React developer  
-- 📚 Currently learning **Flutter**  
-- 💻 Linux user  
-- 🎮 I also create **visual novels with Ren'Py**
+- ⚛️ React developer   
+- 💻 Linux user on cachyos
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Технический стек
 
 <p align="center">
 
@@ -27,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Статистика
 
 <p align="center">
 
@@ -39,7 +37,7 @@
 
 ---
 
-## 🔥 Activity
+## 🔥 Активность
 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=autli5&theme=tokyonight&hide_border=true"/>
@@ -47,15 +45,13 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
  <img src="assets/github-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Связь со мной
 
 <p align="center">
 
@@ -63,11 +59,11 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://t.me/USERNAME">
+<a href="https://t.me/autli">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://vk.com/USERNAME">
+<a href="https://vk.com/autli_officiall">
 <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
 </a>
 
