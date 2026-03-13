@@ -41,8 +41,6 @@
  <img src="assets/github-snake.svg" alt="snake animation"/>
 </p>
 
----
-
 ## 🌐 Связь со мной
 
 <p align="center">
