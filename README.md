@@ -58,9 +58,3 @@
 </a>
 
 </p>
-
----
-
-<p align="center">
-⭐ If you like my projects, consider giving them a star!
-</p>
