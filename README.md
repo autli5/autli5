@@ -45,10 +45,6 @@
 
 <p align="center">
 
-<a href="https://github.com/autli5">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://t.me/autli">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
